@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zlatybazant
 - 👀 I’m interested in Python programming and device programming.
-- 🌱 I’m currently learning Python, JS, Flask, Django, SQL. 
+- 🌱 I’m currently learning Python, Flask, Django, SQL. 
 - 💞️ I’m looking to collaborate on CRM, common-usage Databases, Website Development or science reasearch. 
 - 📫 How to reach me: jakub@kieryk.me
 
